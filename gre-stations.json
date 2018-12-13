@@ -2,11 +2,18 @@
     "station":
     [
         {
-            "name": "lofi hip hop radio - beats to relax/study to",
+            "name": "lofi hip hop radio",
             "streamURL": "https://grahameger.com/yas/hHW1oY26kxQ",
-            "imageURL": "",
-            "desc": "The Music Starts Here",
-            "longDesc": "All your favorite country hits and artists, from Johnny Cash to Taylor Swift, on 1.FM's Absolute Country, playing non-stop crooners and banjos, dance-tunes and fiddles, ballads and harmonicas. Absolute Country focuses on 5th, 6th and 7th generation Country (from the 90s on) but often delves into classic, older tunes as well."
+            "imageURL": "https://grahameger.github.io/radio-files/images/chillhop.jpg",
+            "desc": "beats to relax/study to",
+            "longDesc": "Chill Hip-Hop to study to. http://bit.ly/chilledcowradio"
+        },
+        {
+            "name": "christmas lofi hip hop radio 🎅 chill study/relax beats",
+            "streamURL": "https://grahameger.com/yas/LsBrT6vbQa8",
+            "imageURL": "https://grahameger.github.io/radio-files/images/christmas",
+            "desc": "Christmas lofi hip hop vibes",
+            "longDesc": "Christmas lofi hip hop vibes have come to the raccoons room with cozy vibes and chill beats. :). https://chillhop.lnk.to/applemusic"
         },
     ]
 }
